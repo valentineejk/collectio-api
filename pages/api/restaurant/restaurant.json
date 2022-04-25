@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "name": "TheSideBar",
+    "desc": "All Day Cozy Breakfast & Brunch Place",
+    "image": "https://i.ibb.co/smcFdg7/sidebar.jpg",
+    "gallery": [
+      "https://i.ibb.co/S7S5tj0/275460899-644898830111550-3639108657107352592-n.jpg",
+      "https://i.ibb.co/hfbhBDz/242441739-307469467848498-1459492816653765499-n.jpg",
+      "https://i.ibb.co/RTBFqzr/270031213-1108075093357500-255804999947758866-n.jpg",
+      "https://i.ibb.co/JtC2nKv/244366514-1525778664436378-6752682954796368172-n.jpg"
+    ],
+    "menu": "pglt.me/3lkKcwMRFx",
+    "phone": "09046146129",
+    "hours": "MON - SUN: 08:00AM - 10:00PM",
+    "Address": "13 Emma Abimbola Cole, Lekki. ",
+    "location": "LagosIsland",
+    "map": "https://goo.gl/maps/3fQLA2tnxX1k4ezBA"
+  },
+  {
+    "id": "2",
+    "name": "FarmCity",
+    "desc": "dec",
+    "image": "https://i.ibb.co/Rz6XB1k/farmcity.jpg",
+    "gallery": ["", "", "", "", ""],
+    "menu": "https://www.instagram.com/stories/highlights/18060105307277359/",
+    "phone": "07001000700",
+    "hours": "",
+    "Address": "LagosMainland",
+    "location": "LagosIsland",
+    "map": "https://goo.gl/maps/C9ugmuGsa41nPivXA"
+  },
+  {
+    "id": "3",
+    "name": "Vertigo Lagos",
+    "desc": "dec",
+    "image": "https://i.ibb.co/gjYSKMm/vertigo.jpg",
+    "gallery": ["", "", "", "", ""],
+    "menu": "https://www.instagram.com/stories/highlights/17903505335379379/",
+    "phone": "09131115555",
+    "hours": "",
+    "Address": "LagosMainland",
+    "location": "LagosIsland",
+    "map": "local"
+  },
+  {
+    "id": "4",
+    "name": "Ocean Basket VI",
+    "desc": "Seafood Restaurant",
+    "image": "https://i.ibb.co/gjYSKMm/vertigo.jpg",
+    "gallery": ["", "", "", "", ""],
+    "video": "images/virtigovideo.mp4",
+    "menu": "https://nigeria.oceanbasket.com/menu#main",
+    "phone": "08160591821",
+    "hours": "MON - SUN: 10:30AM - 10:00PM",
+    "Address": "35 Akin Adesola St, Victoria Island",
+    "location": "LagosIsland",
+    "map": "local"
+  },
+  {
+    "id": "5",
+    "name": "Ocean Basket ICM",
+    "desc": "Seafood Restaurant",
+    "image": "https://i.ibb.co/gjYSKMm/vertigo.jpg",
+    "gallery": ["", "", "", "", ""],
+    "menu": "https://nigeria.oceanbasket.com/menu#main",
+    "phone": "08182951963",
+    "hours": "MON - SUN: 10:30AM - 10:00PM",
+    "Address": "Shop U06, 1st floor, Ikeja City Mall, Alausa",
+    "location": "LagosMainland",
+    "map": "local"
+  },
+  {
+    "id": "6",
+    "name": "Ocean Basket IKEJA GRA",
+    "desc": "Seafood Restaurant",
+    "image": "https://i.ibb.co/gjYSKMm/vertigo.jpg",
+    "gallery": ["", "", "", ""],
+    "menu": "https://nigeria.oceanbasket.com/menu#main",
+    "phone": "08091826777",
+    "hours": "MON - SUN: 10:30AM - 10:00PM",
+    "Address": "Ikeja, GRA",
+    "location": "LagosMainland",
+    "map": "local"
+  },
+  {
+    "id": "7",
+    "name": "Alice Garden Restaurant",
+    "desc": "Seafood Restaurant",
+    "image": "https://i.ibb.co/6n0Vtc9/271268869-962578697997913-6465797468455407165-n.jpg",
+    "gallery": [
+      "https://i.ibb.co/Qfty4JF/275494882-146709341149093-2170187723284441788-n.jpg",
+      "https://i.ibb.co/HXjvxzK/271422034-500802924675880-510441648336100216-n.jpg",
+      "https://i.ibb.co/CHNvL9P/277031137-510908847177681-4487088609589891926-n.jpg",
+      "https://i.ibb.co/q7HgJjw/275368068-489536836133873-7252667649801811728-n.jpg"
+    ],
+    "menu": "https://nigeria.oceanbasket.com/menu#main",
+    "phone": "09097099999",
+    "hours": "TUES - SUN: 10:30AM - 10:30PM",
+    "Address": "57 ODUDUWA WAY, GRA 101233, IKEJA",
+    "location": "LagosMainland",
+    "map": "https://goo.gl/maps/gh7aSgp8FceH5gMS7"
+  },
+  {
+    "id": "8",
+    "name": "Essence By The Grid",
+    "desc": "Our People, Their Stories, Our Passion.. Sharing the Essence of Life Together.",
+    "image": "https://i.ibb.co/jwfM2Sh/259741529-945211053046307-1982807270233752262-n.jpg ",
+    "gallery": [
+      "https://i.ibb.co/m4nmxJC/241314178-267436888356099-8377814334456671463-n.jpg",
+      "https://i.ibb.co/2hzCttT/263173366-4620124278075277-7509035602790169542-n.jpg",
+      "https://i.ibb.co/YX55TyW/274492465-665117014808580-6872166938111693192-n.jpg",
+      "https://i.ibb.co/hWGXFsV/274811898-335745725154177-5639196354442428481-n.jpg"
+    ],
+    "menu": "",
+    "phone": "08118877188",
+    "hours": "",
+    "Address": "15A SASEGBON ST, IKEJA GRA 100271, IKEJA",
+    "location": "LagosMainland",
+    "map": "https://goo.gl/maps/ysgZcEEYuDYzmTXXA"
+  },
+  {
+    "id": "9",
+    "name": "Oeuvre Bistro",
+    "desc": "A change on your taste buds 😋 Fine Dinning, Take Out and Delivery",
+    "image": "https://i.ibb.co/xgXNd3T/274969048-530239515367327-7324049562764897061-n.jpg",
+    "gallery": [
+      "https://i.ibb.co/4K4y6Qx/262781418-657872798718985-3595890825332051646-n.jpg",
+      "https://i.ibb.co/Z1V3WTp/269683701-157640913259963-8346207881831145090-n.jpg",
+      "https://i.ibb.co/QC2SYQP/274289493-335864338466580-3447416184752092916-n.jpg",
+      "https://i.ibb.co/2jyQCVK/274540041-1127456068030140-1794074235310465264-n.jpg"
+    ],
+    "menu": "http://www.oeuvredesigns.co/catalog/uploads/2021/11/Oeuvre-Bistro-Menu.pdf",
+    "phone": "",
+    "hours": "MON - SUN: 09:00AM - 10:00PM",
+    "Address": "LagosMainland",
+    "location": "LagosMainland",
+    "map": "local"
+  }
+]

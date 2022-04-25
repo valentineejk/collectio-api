@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "The Blue Ribbon Events & Hall",
+    "desc": "Creating an ambiance worth remembering for a life time",
+    "image": "https://i.ibb.co/vLJqy9F/278240372-296053849245256-7910789392862646746-n.jpg",
+    "capacity": "100-500",
+    "gallery": ["", "", "", ""],
+    "phone": "09046146129",
+    "Address": "Abeokuta,Ogun ",
+    "location": "#",
+    "website": "www.blueribbon.com.ng",
+    "map": "https://goo.gl/maps/3fQLA2tnxX1k4ezBA"
+  },
+  {
+    "id": "2",
+    "name": "#",
+    "desc": "#",
+    "image": "#",
+    "capacity": "#",
+    "gallery": ["#", "#", "#", "#"],
+    "phone": "#",
+    "location": "#",
+    "website": "#",
+    "map": "#"
+  }
+]
