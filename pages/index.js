@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>#</code>
+          <code className={styles.code}>/api/restaurant</code>
         </p>
 
 
